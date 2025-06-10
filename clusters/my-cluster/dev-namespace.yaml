@@ -1,4 +1,4 @@
 apiVersion: v1
-kind: Manespace
+kind: Namespace
 metadata:
   name: dev-ns
